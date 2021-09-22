@@ -3,7 +3,7 @@
 const textarea = document.querySelector('#feed-textarea > ul');
 
 
-var url = 'https://www.youtube.com/feeds/videos.xml?playlist_id=PLJNqgDLpd5E69Kc664st4j7727sbzyx0X'
+var url = 'https://www.youtube.com/feeds/videos.xml?playlist_id=PLPTNm43hfM6FAXNFV1_jBKuehow6Rkb6D'
 
 feednami.load(url, function (result) {
     if (result.error) {
