@@ -11,7 +11,7 @@
 
 **MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
 
-## Oh, Thanks!
+
 
 Thank you for being here! You can find my other projects **[here](https://github.com/flyingsonu122?tab=repositories)**.
 
