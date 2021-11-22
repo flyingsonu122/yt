@@ -19,7 +19,7 @@ feednami.load(url, function(result) {
             li.innerHTML = `
                 <h4>
                     <a href="${entry.link}"> 
-                        <img align="center" src="${entry.image.url}"  width="480" height="360"/>
+                        <img align="center" src="${entry.image.url}"  height="360"/>
                         <p>${entry.title}</p>
                     </a>
                 </h4>
