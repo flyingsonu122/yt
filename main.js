@@ -11,7 +11,6 @@ feednami.load(url, function(result) {
 
         for (var i = 0; i < entries.length; i++) {
             var entry = entries[i]
-            console.log(entry);
 
             let li = document.createElement('li');
 
