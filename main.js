@@ -5,12 +5,13 @@ var url = 'https://www.youtube.com/feeds/videos.xml?playlist_id=PLPTNm43hfM6FAXN
 
 feednami.load(url, function(result) {
     if (result.error) {
-        console.log(result.error)
+        console.log(result.error);
     } else {
         var entries = result.feed.entries
 
         for (var i = 0; i < entries.length; i++) {
             var entry = entries[i]
+            console.log(result.error);
 
             let li = document.createElement('li');
 
