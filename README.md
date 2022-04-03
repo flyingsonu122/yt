@@ -1,10 +1,10 @@
 **Live Demo**
 
-[sonu.live/yt/](https://www.sonu.live/yt/)
+[https://sonukushwaha.me/yt/](https://sonukushwaha.me/yt/)
 
 <br>
 
-[sonu.live/yt/yt.html](https://www.sonu.live/yt/yt.html)
+[https://sonukushwaha.me/yt/yt.html](https://sonukushwaha.me/yt/yt.html)
 
 <br>
 
