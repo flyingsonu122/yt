@@ -1,7 +1,7 @@
 const textarea = document.querySelector('#feed-textarea > ul');
 
 
-var url = 'https://www.youtube.com/feeds/videos.xml?playlist_id=PLPTNm43hfM6FAXNFV1_jBKuehow6Rkb6D'
+var url = 'https://www.youtube.com/feeds/videos.xml?playlist_id=PLd6pQFEt4huL-6gDVFpWSS1F2VKFmUt87'
 
 feednami.load(url, function(result) {
     if (result.error) {
